@@ -3,7 +3,13 @@ from util.plugins.commun import *
 
 def main():
     clear()
-    setTitle(f"@TIO Menu v{THIS_VERSION}")
+    setTitle(f"@TIO Menu v{THIS_VERSION}") 
+██╗░░██╗░█████╗░██╗  ██╗░░░██╗███████╗███╗░░██╗██████╗░███████╗
+██║░██╔╝██╔══██╗██║  ██║░░░██║██╔════╝████╗░██║██╔══██╗╚════██║
+█████═╝░███████║██║  ╚██╗░██╔╝█████╗░░██╔██╗██║██║░░██║░░███╔═╝
+██╔═██╗░██╔══██║██║  ░╚████╔╝░██╔══╝░░██║╚████║██║░░██║██╔══╝░░
+██║░╚██╗██║░░██║██║  ░░╚██╔╝░░███████╗██║░╚███║██████╔╝███████╗
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝  ░░░╚═╝░░░╚══════╝╚═╝░░╚══╝╚═════╝░╚══════╝
     astraahometitle()
     print(f"""      {y}[{b}+{y}]{w} Main Options:           {y}[{b}+{y}]{w} Grabber Options:         {y}[{b}+{y}]{w} Token Options:             {y}[{b}+{y}]{w} Useful Options:
 \n          {y}[{w}01{y}]{w} Self Bot               {y}[{w}06{y}]{w} File                    {y}[{w}09{y}]{w} Account Nuker            {y}[{w}15{y}]{w} Tokens Checker
